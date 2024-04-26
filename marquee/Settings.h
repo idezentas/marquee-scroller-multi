@@ -62,6 +62,7 @@ String TIMEDBKEY = "";                  // // Your API Key from https://timezone
 String APIKEY = ""; // Your API Key from http://openweathermap.org/
 String CityName = "Ankara,TR"; // Default Ankara,TR
 String WeatherLanguage = "tr";
+String SystemLanguage = "tr";
 String marqueeMessage = "";
 boolean IS_METRIC = true;               // false = Imperial and true = Metric
 boolean IS_24HOUR = true;               // 23:00 millitary 24 hour clock
