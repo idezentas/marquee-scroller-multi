@@ -2203,9 +2203,6 @@ void displayWorldClockData()
       html += timeNowDateS + ": " + timezoneClient.getTimestamp2Date(1) + "<br>";
       html += timeZoneS + ": " + timezoneClient.getZoneName(1) + "   " + timezoneClient.getGmtOffsetString(1) + "   (" + timezoneClient.getToAbbreviation(1) + ")" + "<br>";
       html += TimeDBClient.getZoneName(0) + " " + diffTimeS + ": " + timezoneClient.getOffsetDifferenceString(1) + "<br>";
-      html += dstS + ": " + timezoneClient.useDST(1) + "<br>";
-      html += dstBES + ": " + timezoneClient.getZoneStart(1) + " / " + timezoneClient.getZoneEnd(1) + "<br>";
-      html += dstAbbS + ": " + timezoneClient.getNextAbbreviation(1) + "<br>";
       html += "<a href='https://www.google.com/maps/@" + worldWeatherClient.getLat(1) + "," + worldWeatherClient.getLon(1) + ",10000m/data=!3m1!1e3' target='_BLANK'><i class='fas fa-map-marker' style='color:red'></i> " + mapItS + "!</a><br>";
       html += "</p></div><hr>";
     }
@@ -2231,9 +2228,6 @@ void displayWorldClockData()
       html += timeNowDateS + ": " + timezoneClient.getTimestamp2Date(2) + "<br>";
       html += timeZoneS + ": " + timezoneClient.getZoneName(2) + "   " + timezoneClient.getGmtOffsetString(2) + "   (" + timezoneClient.getToAbbreviation(2) + ")" + "<br>";
       html += TimeDBClient.getZoneName(0) + " " + diffTimeS + ": " + timezoneClient.getOffsetDifferenceString(2) + "<br>";
-      html += dstS + ": " + timezoneClient.useDST(2) + "<br>";
-      html += dstBES + ": " + timezoneClient.getZoneStart(2) + " / " + timezoneClient.getZoneEnd(2) + "<br>";
-      html += dstAbbS + ": " + timezoneClient.getNextAbbreviation(2) + "<br>";
       html += "<a href='https://www.google.com/maps/@" + worldWeatherClient.getLat(2) + "," + worldWeatherClient.getLon(2) + ",10000m/data=!3m1!1e3' target='_BLANK'><i class='fas fa-map-marker' style='color:red'></i> " + mapItS + "!</a><br>";
       html += "</p></div><hr>";
     }
@@ -2259,9 +2253,6 @@ void displayWorldClockData()
       html += timeNowDateS + ": " + timezoneClient.getTimestamp2Date(3) + "<br>";
       html += timeZoneS + ": " + timezoneClient.getZoneName(3) + "   " + timezoneClient.getGmtOffsetString(3) + "   (" + timezoneClient.getToAbbreviation(3) + ")" + "<br>";
       html += TimeDBClient.getZoneName(0) + " " + diffTimeS + ": " + timezoneClient.getOffsetDifferenceString(3) + "<br>";
-      html += dstS + ": " + timezoneClient.useDST(3) + "<br>";
-      html += dstBES + ": " + timezoneClient.getZoneStart(3) + " / " + timezoneClient.getZoneEnd(3) + "<br>";
-      html += dstAbbS + ": " + timezoneClient.getNextAbbreviation(3) + "<br>";
       html += "<a href='https://www.google.com/maps/@" + worldWeatherClient.getLat(3) + "," + worldWeatherClient.getLon(3) + ",10000m/data=!3m1!1e3' target='_BLANK'><i class='fas fa-map-marker' style='color:red'></i> " + mapItS + "!</a><br>";
       html += "</p></div><hr>";
     }
