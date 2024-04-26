@@ -1,0 +1,93 @@
+{
+    "status": "ok",
+    "sources": [
+        {
+            "id": "red",
+            "name": "Red"
+        },
+        {
+            "id": "pink",
+            "name": "Pink"
+        },
+        {
+            "id": "purple",
+            "name": "Purple"
+        },
+        {
+            "id": "deep-purple",
+            "name": "Deep-purple"
+        },
+        {
+            "id": "indigo",
+            "name": "Indigo"
+        },
+        {
+            "id": "blue",
+            "name": "Blue"
+        },
+        {
+            "id": "light-blue",
+            "name": "Light-blue"
+        },
+        {
+            "id": "cyan",
+            "name": "Cyan"
+        },
+        {
+            "id": "teal",
+            "name": "Teal"
+        },
+        {
+            "id": "green",
+            "name": "Green"
+        },
+        {
+            "id": "light-green",
+            "name": "Light-green"
+        },
+        {
+            "id": "lime",
+            "name": "Lime"
+        },
+        {
+            "id": "khaki",
+            "name": "Khaki"
+        },
+        {
+            "id": "yellow",
+            "name": "Red"
+        },
+        {
+            "id": "orange",
+            "name": "Orange"
+        },
+        {
+            "id": "deep-orange",
+            "name": "Deep-orange"
+        },
+        {
+            "id": "blue-grey",
+            "name": "Blue-grey"
+        },
+        {
+            "id": "brown",
+            "name": "Brown"
+        },
+        {
+            "id": "grey",
+            "name": "Grey"
+        },
+        {
+            "id": "dark-grey",
+            "name": "Dark-grey"
+        },
+        {
+            "id": "black",
+            "name": "Black"
+        },
+        {
+            "id": "w3schools",
+            "name": "w3schools"
+        }
+    ]
+}
