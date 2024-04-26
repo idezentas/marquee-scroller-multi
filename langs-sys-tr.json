@@ -1,0 +1,13 @@
+{
+    "status": "ok",
+    "sources": [
+        {
+            "id": "en",
+            "name": "İngilizce"
+        },
+        {
+            "id": "tr",
+            "name": "Türkçe"
+        }
+    ]
+}
