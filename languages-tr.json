@@ -1,0 +1,201 @@
+{
+    "status": "ok",
+    "sources": [
+        {
+            "id": "af",
+            "name": "Afrikaanca"
+        },
+        {
+            "id": "al",
+            "name": "Arnavutça"
+        },
+        {
+            "id": "ar",
+            "name": "Arapça"
+        },
+        {
+            "id": "az",
+            "name": "Azerice"
+        },
+        {
+            "id": "bg",
+            "name": "Bulgarca"
+        },
+        {
+            "id": "ca",
+            "name": "Katalanca"
+        },
+        {
+            "id": "cz",
+            "name": "Çekçe"
+        },
+        {
+            "id": "da",
+            "name": "Danca"
+        },
+        {
+            "id": "de",
+            "name": "Almanca"
+        },
+        {
+            "id": "el",
+            "name": "Yunanca"
+        },
+        {
+            "id": "en",
+            "name": "İngilizce"
+        },
+        {
+            "id": "eu",
+            "name": "Baskça"
+        },
+        {
+            "id": "fa",
+            "name": "Farsça (Farsça)"
+        },
+        {
+            "id": "fi",
+            "name": "Fince"
+        },
+        {
+            "id": "fr",
+            "name": "Fransızca"
+        },
+        {
+            "id": "gl",
+            "name": "Galiçyaca"
+        },
+        {
+            "id": "he",
+            "name": "İbranice"
+        },
+        {
+            "id": "hi",
+            "name": "Hintçe"
+        },
+        {
+            "id": "hr",
+            "name": "Hırvatça"
+        },
+        {
+            "id": "hu",
+            "name": "Macarca"
+        },
+        {
+            "id": "id",
+            "name": "Endonezce"
+        },
+        {
+            "id": "it",
+            "name": "İtalyanca"
+        },
+        {
+            "id": "ja",
+            "name": "Japonca"
+        },
+        {
+            "id": "kr",
+            "name": "Korece"
+        },
+        {
+            "id": "la",
+            "name": "Letonca"
+        },
+        {
+            "id": "lt",
+            "name": "Litvanca"
+        },
+        {
+            "id": "mk",
+            "name": "Makedonca"
+        },
+        {
+            "id": "no",
+            "name": "Norveççe"
+        },
+        {
+            "id": "nl",
+            "name": "Hollandaca"
+        },
+        {
+            "id": "pl",
+            "name": "Lehçe"
+        },
+        {
+            "id": "pt",
+            "name": "Portekizce"
+        },
+        {
+            "id": "pt_br",
+            "name": "Portekizce (Brezilya)"
+        },
+        {
+            "id": "ro",
+            "name": "Romence"
+        },
+        {
+            "id": "ru",
+            "name": "Rusça"
+        },
+        {
+            "id": "sv",
+            "name": "İsveççe"
+        },
+        {
+            "id": "se",
+            "name": "İsveççe"
+        },
+        {
+            "id": "sk",
+            "name": "Slovakça"
+        },
+        {
+            "id": "sl",
+            "name": "Slovence"
+        },
+        {
+            "id": "sp",
+            "name": "İspanyolca"
+        },
+        {
+            "id": "es",
+            "name": "İspanyolca"
+        },
+        {
+            "id": "sr",
+            "name": "Sırpça"
+        },
+        {
+            "id": "th",
+            "name": "Tayca"
+        },
+        {
+            "id": "tr",
+            "name": "Türkçe"
+        },
+        {
+            "id": "ua",
+            "name": "Ukraynaca"
+        },
+        {
+            "id": "uk",
+            "name": "Ukraynaca"
+        },
+        {
+            "id": "vi",
+            "name": "Vietnamca"
+        },
+        {
+            "id": "zh_cn",
+            "name": "Çince Basitleştirilmiş"
+        },
+        {
+            "id": "zh_tw",
+            "name": "Çince Geleneksel"
+        },
+        {
+            "id": "zu",
+            "name": "Zuluca"
+        }
+    ]
+}
