@@ -1,0 +1,93 @@
+{
+    "status": "ok",
+    "sources": [
+        {
+            "id": "red",
+            "name": "Kırmızı"
+        },
+        {
+            "id": "pink",
+            "name": "Pembe"
+        },
+        {
+            "id": "purple",
+            "name": "Mor"
+        },
+        {
+            "id": "deep-purple",
+            "name": "Koyu Mor"
+        },
+        {
+            "id": "indigo",
+            "name": "Çivit Mavisi"
+        },
+        {
+            "id": "blue",
+            "name": "Mavi"
+        },
+        {
+            "id": "light-blue",
+            "name": "Açık Mavi"
+        },
+        {
+            "id": "cyan",
+            "name": "Camgöbeği"
+        },
+        {
+            "id": "teal",
+            "name": "Ördekbaşı"
+        },
+        {
+            "id": "green",
+            "name": "Yeşil"
+        },
+        {
+            "id": "light-green",
+            "name": "Açık Yeşil"
+        },
+        {
+            "id": "lime",
+            "name": "Limon Yeşili"
+        },
+        {
+            "id": "khaki",
+            "name": "Haki"
+        },
+        {
+            "id": "yellow",
+            "name": "Sarı"
+        },
+        {
+            "id": "orange",
+            "name": "Turuncu"
+        },
+        {
+            "id": "deep-orange",
+            "name": "Koyu Turuncu"
+        },
+        {
+            "id": "blue-grey",
+            "name": "Mavi Gri"
+        },
+        {
+            "id": "brown",
+            "name": "Kahverengi"
+        },
+        {
+            "id": "grey",
+            "name": "Gri"
+        },
+        {
+            "id": "dark-grey",
+            "name": "Koyu Gri"
+        },
+        {
+            "id": "black",
+            "name": "Siyah"
+        },
+        {
+            "id": "w3schools",
+            "name": "w3schools"
+        }
+    ]
+}
